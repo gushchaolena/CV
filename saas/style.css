@@ -1385,7 +1385,7 @@ h2 {
     font-size: 36px; } }
 @media screen and (min-width: 1201px) {
   h2 {
-    font-size: 46px; } }
+    font-size: 40px; } }
 h5 {
   font-size: calc(14px + 14 * ( (100vw - 320px) / 1200)); }
 
