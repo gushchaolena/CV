@@ -1631,7 +1631,7 @@ h6 {
 
 @media (min-width: 601px) {
   .modal-dialog {
-    max-width: 420px !important; } }
+    max-width: 520px !important; } }
 @media (max-width: 600px) {
   .modal-dialog {
     max-width: 300px !important; }
